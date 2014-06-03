@@ -1,0 +1,12 @@
+# Assembly instructions
+http://www.ufactory.cc/downloads/documents/uArm_Assembly_Instructions_v1.1.pdf 
+
+# Part lists
+http://www.ufactory.cc/downloads/documents/part_list/uArm_Replaceable_Kit_Part_List.pdf
+http://www.ufactory.cc/downloads/documents/part_list/uArm_Mechanical_Kit_Part_List.pdf
+http://www.ufactory.cc/downloads/documents/part_list/uArm_Suction_Cup_Part_List.pdf
+http://www.ufactory.cc/downloads/documents/part_list/uArm_Gripper_Kit_Part_List.pdf
+http://www.ufactory.cc/downloads/documents/part_list/uArm_Advance_Kit_Part_List.pdf
+
+# Getting started
+http://www.ufactory.cc/downloads/documents/Getting_Started_with_uArm_v1.1.pdf
