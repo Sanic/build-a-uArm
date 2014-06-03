@@ -1,10 +1,26 @@
 # Original parts
-2x micro analog servos
+2x micro analog servos ( Power HD Micro Servo HD-1900A )
   1 micro server for the gripper and one to rotate the end effector
-  Source: http://www.pololu.com/product/1050
   Specs at 6 V: 0.08 sec/60°, 21 oz-in (1.5 kg-cm), 9.0 g.
 
-3x standard analog servos
+  Sources: 
+    - http://www.pololu.com/product/1050 
+    - http://www.rmv-deutschland.de/power-hd-analog-micro-servo-hd-1900a.html (Bonus: They accept orders by universities on account ) 
+    - http://www.robotik-teile.de/Motoren/Servos/Power-HD-Micro-Servo-HD-1900A.html (Bonus: They accept orders by universities on account )
+    - http://www.modellco.de/servos/analog/mini/mini-analog-servo-hd-1900a-9g-1.5-kg
+  Remark: There is also a version of this servo with a metal gear, called HD-1900MG
+
+3x standard analog servos ( Power HD High-Torque Servo 1501MG )
   1 for the rotating base, 2 for the base of the arm
-  Source: http://www.servodatabase.com/servo/power-hd/hd-1501mg
   Specs at 6V: 0.14 sec/60°, 17.00 kg-cm, 60g
+
+  Source:
+    - http://www.pololu.com/product/1057
+    - http://www.valuehobby.com/power-hd-1501mg.html
+    - https://www.engelmt.de/index.php/katalog/artikelinfo/4497-1-show-hd-power_analog_servo_1501mg.html
+    - http://www.modellco.de/servos/analog/standard/analog-servo-hd-1501mg-60g-17-kg
+    - http://www.hs-modellbau.de/power-hd-1501mg-servo-metallgetriebe-high-torque.html
+    - http://www.robotik-teile.de/Motoren/Servos/Power-HD-High-Torque-Servo-1501MG.html (Bonus: They accept orders by universities on account )
+    - http://www.lipoly.de/index.php?main_page=product_info&products_id=275592 ( Delivery on account after approval )
+
+Question: Do we need metal horns for the strong servos or are they included in the acrylic parts?
