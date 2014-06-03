@@ -1,8 +1,10 @@
 # Original parts
-2x micro servos
+2x micro analog servos
   1 micro server for the gripper and one to rotate the end effector
   Source: http://www.pololu.com/product/1050
   Specs at 6 V: 0.08 sec/60°, 21 oz-in (1.5 kg-cm), 9.0 g.
-3x standard servos
+
+3x standard analog servos
   1 for the rotating base, 2 for the base of the arm
-  Source: Unknown so far
+  Source: http://www.servodatabase.com/servo/power-hd/hd-1501mg
+  Specs at 6V: 0.14 sec/60°, 17.00 kg-cm, 60g
