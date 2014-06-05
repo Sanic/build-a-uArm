@@ -22,5 +22,7 @@
     - http://www.hs-modellbau.de/power-hd-1501mg-servo-metallgetriebe-high-torque.html ( Doesn't accept orders on account from universities )
     - http://www.robotik-teile.de/Motoren/Servos/Power-HD-High-Torque-Servo-1501MG.html (Bonus: They accept orders by universities on account )
     - http://www.lipoly.de/index.php?main_page=product_info&products_id=275592 ( Delivery on account after approval )
+	Alternate Servo in that price range:
+	  - http://www.hobbyking.com/hobbyking/store/__9617__turnigy_metal_gear_servo_60g_15_5kg_16sec.html
 
 Question: Do we need metal horns for the strong servos or are they included in the acrylic parts?
